@@ -5,7 +5,8 @@
 **Duration:** July 23 to August 23 2024 <br>
 **Mentor:** Neela Santhosh Kumar <br>
 
-# Simple-Calculator
+# Overview of project
+<h1>Simple-Calculator</h1>
 It is a simple calculator which is used to do basic caluclations like addition, subtraction, multiplication, and division...
 
 <h2>Sample Output</h2>
